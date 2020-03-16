@@ -7,7 +7,7 @@ namespace Lesson1
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
-            //Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");
 
             /*
             int x = 10; 
